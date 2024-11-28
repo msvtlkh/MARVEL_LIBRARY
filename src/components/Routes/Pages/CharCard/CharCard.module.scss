@@ -1,0 +1,27 @@
+.container {
+    font-family: "Roboto Condensed", sans-serif;
+    width: 1100px;
+}
+
+.wrapper {
+    display: flex;
+    margin-top: 50px;
+}
+
+.img {
+    width: 293px;
+    height: 293px;
+    margin-right: 50px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+
+.desc {
+    width: 550px;
+    font-size: 18px;
+    line-height: 1.3;
+}
